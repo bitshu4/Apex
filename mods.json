@@ -1,0 +1,22 @@
+{
+  "mods": [
+    {
+      "name": "BCSP",
+      "description": "A mod that makes your menu be like The Battle Cats.",
+      "author": "bishu",
+      "version": "1.0.1",
+      "githubUrl": "https://github.com/bitshu4/BCSP",
+      "iconUrl": "https://github.com/bitshu4/BCSP/main/icon.png",
+      "branch": "main"
+    },
+    {
+      "name": "Spherium",
+      "description": "A skin and trail mod.",
+      "author": "bishu",
+      "version": "1.1.0",
+      "githubUrl": "https://github.com/bitshu4/Spherium",
+      "iconUrl": "https://github.com/bitshu4/Spherium/main/icon.png",
+      "branch": "main"
+    }
+  ]
+}
