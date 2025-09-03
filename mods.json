@@ -7,7 +7,8 @@
       "version": "1.0.1",
       "githubUrl": "https://github.com/bitshu4/BCSP",
       "iconUrl": "https://raw.githubusercontent.com/bitshu4/BCSP/main/icon.png",
-      "branch": "main"
+      "branch": "main",
+      "type": "main"
     },
     {
       "name": "Rainbow Trail",
@@ -16,7 +17,8 @@
       "version": "1.0.1",
       "githubUrl": "https://github.com/echotyler/Rainbow-Trail",
       "iconUrl": "https://raw.githubusercontent.com/bitshu4/BCSP/main/icon.png",
-      "branch": "main"
+      "branch": "main",
+      "type": "release"
     },
     {
       "name": "Spherium",
@@ -25,7 +27,8 @@
       "version": "1.1.0",
       "githubUrl": "https://github.com/bitshu4/Spherium",
       "iconUrl": "https://raw.githubusercontent.com/bitshu4/Spherium/main/icon.png",
-      "branch": "main"
+      "branch": "main",
+      "type": "main"
     }
   ]
 }
