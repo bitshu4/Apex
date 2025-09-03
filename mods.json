@@ -11,6 +11,17 @@
       "DistributionType": "main"
     },
     {
+      "name": "Rainbow Trail",
+      "description": "A mod that makes your trail be rainbow colors.",
+      "author": "echotyler",
+      "version": "1.0.1",
+      "githubUrl": "https://github.com/echotyler/Rainbow-Trail",
+      "iconUrl": "https://raw.githubusercontent.com/bitshu4/BCSP/main/icon.png",
+      "branch": "main",
+      "DistributionType": "release",
+      "DllFileName": "RainbowTrail.dll"
+    },
+    {
       "name": "Spherium",
       "description": "A skin and trail mod.",
       "author": "bishu",
